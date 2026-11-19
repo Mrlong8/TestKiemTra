@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<BuiXuanLong_241230777OnTap2026V2.Models.Sach>
+<div id="main_content">
+    <partial name="BuiXuanLong_MainContent" model="Model"/>
+
+</div>
+<div class="container mt-3">
+	<a class="btn btn-primary" asp-controller="Sach" asp-action="Create">Thêm Sách</a>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $(document).on("click", ".filter_theloai", function (e) {
+                e.preventDefault();
+
+                $(".menu li").removeClass("active");
+                $(this).parent().addClass("active");
+
+                var maTL = $(this).data("id");
+
+                $.ajax({
+                    url: '@Url.Action("FilterSach", "Home")',
+                    type: 'GET',
+                    data: { maTL: maTL },
+                    success: function (response) {
+                        $("#main_content").html(response)
+                    },
+                    error: function () {
+                        alert("Loi khong the tai data")
+                    }
+                    
+                });
+            });
+        });
+    </script>
+    
+}
+
+

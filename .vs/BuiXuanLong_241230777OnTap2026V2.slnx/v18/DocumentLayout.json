@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\service\\qlnhasachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\service\\qlnhasachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\views\\shared\\buixuanlong_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\views\\shared\\buixuanlong_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\views\\shared\\buixuanlong_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\views\\shared\\buixuanlong_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|d:\\university study materials it utc\\sinh vien nam 3\\hk1\\onthi\\lamdethiweb\\buixuanlong_241230777ontap2026v2\\buixuanlong_241230777ontap2026v2\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6510E2D5-E980-E108-BC82-4C00A9604DB8}|BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2.csproj|solutionrelative:buixuanlong_241230777ontap2026v2\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Sach\\Create.cshtml",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Views\\Sach\\Create.cshtml",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Sach\\Create.cshtml",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Views\\Sach\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T16:23:59.238Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Models\\Sach.cs",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Models\\Sach.cs",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Models\\Sach.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:08:40.384Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Controllers\\SachController.cs",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Controllers\\SachController.cs",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Controllers\\SachController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T14:36:38.952Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T13:47:20.18Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T13:37:57.301Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Program.cs",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Program.cs",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Program.cs",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:29:57.704Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:24:14.989Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:44:58.662Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLNhaSachService.cs",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Service\\QLNhaSachService.cs",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Service\\QLNhaSachService.cs",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Service\\QLNhaSachService.cs",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Service\\QLNhaSachService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA3wCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:23:46.947Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuiXuanLong_MainContent.cshtml",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_MainContent.cshtml",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_MainContent.cshtml",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_MainContent.cshtml",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_MainContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T13:20:42.188Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuiXuanLong_Header.cshtml",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_Header.cshtml",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_Header.cshtml",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_Header.cshtml",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\BuiXuanLong_Header.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T13:19:34.518Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T13:18:13.914Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QLNhaSachContext.cs",
+              "DocumentMoniker": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Models\\QLNhaSachContext.cs",
+              "RelativeDocumentMoniker": "BuiXuanLong_241230777OnTap2026V2\\Models\\QLNhaSachContext.cs",
+              "ToolTip": "D:\\university study materials IT UTC\\Sinh Vien Nam 3\\HK1\\OnThi\\LamDeThiWeb\\BuiXuanLong_241230777OnTap2026V2\\BuiXuanLong_241230777OnTap2026V2\\Models\\QLNhaSachContext.cs",
+              "RelativeToolTip": "BuiXuanLong_241230777OnTap2026V2\\Models\\QLNhaSachContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:16:38.962Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
